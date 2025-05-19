@@ -1,7 +1,10 @@
 # Akoko ti Esu - A hora de Exu (Alarme para uso pessoal)
 
-Projeto web interativo que une elementos audiovisuais com programação criativa. Desenvolvido com foco em experiências únicas baseadas em som, imagem e interações.
+🧠 Descrição do Projeto
 
+Akoko ti Esu é um sistema de alarme desenvolvido em PHP com interface web simples e direta. Seu nome vem do iorubá e significa "A Hora de Exu", fazendo alusão ao momento decisivo, ao alerta, à transformação ou à travessia de caminhos.
+
+A proposta do projeto é oferecer um alarme simbólico e funcional, utilizando sons, imagens e comportamento interativo. Ao ser acionado, o sistema emite um som específico e pode exibir imagens, criando uma experiência sensorial que pode ser usada como lembrete, aviso cerimonial ou recurso artístico.
 ## 📁 Estrutura do Projeto
 
 Akoko ti Esu/
