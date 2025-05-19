@@ -5,6 +5,13 @@
 Akoko ti Esu é um sistema de alarme desenvolvido em PHP com interface web simples e direta. Seu nome vem do iorubá e significa "A Hora de Exu", fazendo alusão ao momento decisivo, ao alerta, à transformação ou à travessia de caminhos.
 
 A proposta do projeto é oferecer um alarme simbólico e funcional, utilizando sons, imagens e comportamento interativo. Ao ser acionado, o sistema emite um som específico e pode exibir imagens, criando uma experiência sensorial que pode ser usada como lembrete, aviso cerimonial ou recurso artístico.
+
+🧠 Significado do Nome
+
+"Akoko ti Esu" significa “A Hora de Exu” em iorubá.
+Exu é o orixá da comunicação, mensageiro entre mundos e regente dos caminhos. O alarme representa um momento importante, um “chamado” para prestar atenção, agir ou decidir.
+
+
 ## 📁 Estrutura do Projeto
 
 Akoko ti Esu/
