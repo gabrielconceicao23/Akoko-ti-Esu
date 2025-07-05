@@ -15,7 +15,7 @@ Exu é o orixá da comunicação, mensageiro entre mundos e regente dos caminhos
 ## 📁 Estrutura do Projeto
 
 Akoko ti Esu/
-├── index.php
+├── index.html
 ├── Imagens/
 └── sons/
 
@@ -40,7 +40,7 @@ Akoko ti Esu/
 
 🛠 Tecnologias Utilizadas
 
-    HTML, CSS, PHP, JavaScript, Servidor Apache
+    HTML, CSS, JavaScript, Servidor Apache
 
     Git para versionamento
 
